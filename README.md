@@ -66,3 +66,4 @@ I will (hopefully) not ever need to make any changes directly to the original fi
 and will instead be creating `SOLUTION` files / folders where applicable.  As long as you do not ever make a file
 or folder named `SOLUTION` (e.g. `SOLUTION.md`, `SOLUTION.sh`, `SOLUTION/`, etc), you should not have any merge conflicts
 when you do `git pull`.
+w
