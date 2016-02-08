@@ -20,3 +20,4 @@ Extract the 10 most used words in Letter 3 of `frankenstein.txt`.  Words should 
 
 Hint: Letter 3 is between lines 255 and 298 of the file frankenstein.txt.
 
+echo test1
